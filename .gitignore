@@ -1,0 +1,25 @@
+# Xcode personal settings and caches
+xcuserdata/
+*.xcuserstate
+*.mode1v3
+*.mode2v3
+*.storyboarduserstate
+
+# Xcode workspace personal settings
+*.xcworkspace/xcuserdata/
+
+# Build artifacts
+build/
+DerivedData/
+
+# Swift Package Manager tools
+.build/
+.swiftpm/
+
+# Dependency managers (if applicable)
+Pods/
+Carthage/Build/
+
+# OS-generated files
+.DS_Store
+
